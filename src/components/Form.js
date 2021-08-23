@@ -30,6 +30,8 @@ function Form({SetInputText, todos, SetTodos, inputText, status, setStatus}) {
             .then(data => {
                 
                 console.log('Success:', data);
+                console.log('Success:', data);
+
             })
             .catch((error) => {
                 console.error('Error:', error);
