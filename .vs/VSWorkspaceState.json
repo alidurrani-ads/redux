@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\containers",
+    "\\src\\services",
+    "\\src\\services\\actions",
+    "\\src\\services\\reducers"
+  ],
+  "SelectedNode": "\\src\\containers\\FormContainer.js",
+  "PreviewInSolutionExplorer": false
+}
